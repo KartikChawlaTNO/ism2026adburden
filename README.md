@@ -57,7 +57,7 @@ This appendix presents the results of the practitioner survey conducted on 17 Ju
 
 ### Q2: Perceived potential of candidate solutions for enabling automated compliance through DPP
 
-![Q2: Potential of candidate solutions for enabling automated compliance]([q2_potential.png](https://github.com/KartikChawlaTNO/ism2026adburden/blob/main/Picture3.png)
+![Q2: Potential of candidate solutions for enabling automated compliance]((https://github.com/KartikChawlaTNO/ism2026adburden/blob/main/Picture3.png)
 
 **Key insights:**
 - Consolidated dataset ("report-once") and machine-executable DPP obligation vocabularies have the highest perceived potential and strongest consensus among respondents.
