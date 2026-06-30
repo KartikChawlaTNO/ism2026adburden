@@ -53,7 +53,7 @@ This appendix presents the results of the practitioner survey conducted on 17 Ju
 
 ### Q1: How does your organization currently manage compliance with multiple EU regulations?
 
-![Q1: Current compliance management approaches](q1_compliance_management.png)
+![Q1: Current compliance management approaches](picture1.png)
 
 ### Q2: Perceived potential of candidate solutions for enabling automated compliance through DPP
 
