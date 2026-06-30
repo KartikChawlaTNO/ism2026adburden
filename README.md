@@ -53,11 +53,11 @@ This appendix presents the results of the practitioner survey conducted on 17 Ju
 
 ### Q1: How does your organization currently manage compliance with multiple EU regulations?
 
-![Q1: Current compliance management approaches](picture1.png)
+![Q1: Current compliance management approaches](https://github.com/KartikChawlaTNO/ism2026adburden/blob/main/Picture1.png)
 
 ### Q2: Perceived potential of candidate solutions for enabling automated compliance through DPP
 
-![Q2: Potential of candidate solutions for enabling automated compliance](q2_potential.png)
+![Q2: Potential of candidate solutions for enabling automated compliance]([q2_potential.png](https://github.com/KartikChawlaTNO/ism2026adburden/blob/main/Picture3.png)
 
 **Key insights:**
 - Consolidated dataset ("report-once") and machine-executable DPP obligation vocabularies have the highest perceived potential and strongest consensus among respondents.
@@ -67,7 +67,7 @@ This appendix presents the results of the practitioner survey conducted on 17 Ju
 
 ### Q3: Organisational comfort relying on these solutions for compliance and validation
 
-![Q3: Organisational comfort levels in relying on automated solutions](q3_comfort.png)
+![Q3: Organisational comfort levels in relying on automated solutions](https://github.com/KartikChawlaTNO/ism2026adburden/blob/main/Picture4.png)
 
 **Key insights:**
 - The dominant sentiment is that respondents are comfortable with the solutions provided they are "labelled and auditable."
@@ -77,6 +77,6 @@ This appendix presents the results of the practitioner survey conducted on 17 Ju
 
 ### Strategic alignment: potential vs. comfort
 
-![Strategic alignment matrix: technical potential vs. governance comfort](strategic_matrix.png)
+![Strategic alignment matrix: technical potential vs. governance comfort](https://github.com/KartikChawlaTNO/ism2026adburden/blob/main/Picture5.png)
 
 This matrix plots each candidate solution by its average perceived potential (x-axis) and average organisational comfort (y-axis). Machine-executable DPP obligation vocabularies and consolidated datasets cluster in the "Strategic Priority" quadrant (high potential, high trust). AI-mediated solutions and Digital Identity Wallets fall in or near the "High Potential Risk" and "Low Priority" quadrants, reflecting the gap between their technical capabilities and current organisational trust.
